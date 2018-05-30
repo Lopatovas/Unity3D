@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - oil
+  - OffRoad
+  - Car
+  - Finish line
+  - Lap line 1
+  - Lap line 2
+  - Lap line 3
+  - Lap line 4
+  - Lap line 5
+  - Start line
+  - StartLine
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1327955329
+    locked: 0
+  - name: Track
+    uniqueID: 4126034009
+    locked: 0
+  - name: Obstacles
+    uniqueID: 808233257
+    locked: 0
+  - name: Player
+    uniqueID: 3503115757
+    locked: 0
+  - name: UI
+    uniqueID: 3312628989
+    locked: 0
